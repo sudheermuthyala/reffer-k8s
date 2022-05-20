@@ -1,5 +1,6 @@
 ## Testing the table content
 
-#| No | Name | Place |
+## Course Modules
 
 | S.No | AWS Service Name |
+| ---- | ---------------- |
