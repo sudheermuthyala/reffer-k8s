@@ -3,4 +3,3 @@
 ## Course Modules
 
 | S.No | AWS Service Name |
-| ---- | ---------------- |
